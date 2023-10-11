@@ -205,7 +205,7 @@ const Loginapi = async (req, resp) => {
         //     Refreshtoken:refreshtoken
         // });
         //  await data.save();
-        //  console.log("ff") de ded med med
+        //  console.log("ff") Hawaa Banai Thadi re Meri sunny de0l si boddy re
       }
 
       resp.status(200).json({
