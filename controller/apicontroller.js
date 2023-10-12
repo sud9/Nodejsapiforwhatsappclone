@@ -205,7 +205,7 @@ const Loginapi = async (req, resp) => {
         //     Refreshtoken:refreshtoken
         // });
         //  await data.save();
-        //  console.log("ff") Hawaa Banai Thadi re Meri sudhir gupta si boddy re
+        //  console.log("ff") Sanjay Gedu
       }
 
       resp.status(200).json({
